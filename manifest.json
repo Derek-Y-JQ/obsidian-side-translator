@@ -1,10 +1,11 @@
 {
 	"id": "side-translator",
 	"name": "Side Translator",
-	"version": "1.0.0",
+	"version": "1",
 	"minAppVersion": "0.15.0",
 	"description": "powerful Obsidian plugin that integrates multiple translation services directly into your Obsidian side panel",
 	"author": "Derek Yin",
 	"isDesktopOnly": false
 }
+
 
