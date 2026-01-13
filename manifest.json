@@ -3,10 +3,11 @@
 	"name": "Side Translator",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "powerful Obsidian plugin that integrates multiple translation services directly into your Obsidian side panel",
+	"description": "Integrates multiple translation services directly into your side panel.",
 	"author": "Derek Yin",
 	"isDesktopOnly": false
 }
+
 
 
 
