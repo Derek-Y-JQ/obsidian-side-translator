@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-side-translator",
+	"name": "SideTranslator",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Translator plugin that opens Google Translate in the side panel.",
+	"author": "Derek Yin",
+	"isDesktopOnly": false
+}
