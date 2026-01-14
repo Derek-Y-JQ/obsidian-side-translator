@@ -18,7 +18,7 @@
     *   **Youdao Dictionary** (Supports API Key)
     *   **AI Translation**: Use OpenAI (ChatGPT or Deepseek) or any compatible specific model for high-quality, context-aware translations.
 *   **Seamless Workflow**:
-    *   Select text in your note and click the Ribbon icon to translate immediately.
+    *   Select text in your note and click the Ribbon icon to translate immediately. （Must in edit mode, not reading mode）
     *   Right-click selection and choose **"Side Translate"**.
     *   Type or paste text directly into the side panel.
 *   **Quick Engine Switcher**: Switch between translation services directly from the side panel UI.
@@ -65,7 +65,7 @@ Go to **Settings** -> **Side Translator** to configure your preferences:
     *   **有道翻译**（支持配置 App Key）
     *   **AI 翻译**：支持 OpenAI (ChatGPT,deepseek) 格式的接口，可使用任意大模型进行高质量翻译。
 *   **流畅体验**：
-    *   在笔记中选中文字，点击左侧图标即可自动翻译。
+    *   在笔记中选中文字，点击左侧图标即可自动翻译。（必须是在编辑模式下，非阅读模式）
     *   支持右键菜单：选中文字后右键选择 **"Side Translate"**。
     *   直接在侧边栏输入或粘贴文字进行翻译。
 *   **快速切换**：在侧边栏顶部下拉框即可快速切换翻译引擎（如从谷歌切换到 AI）。
@@ -106,3 +106,4 @@ If you want to modify or build the plugin yourself:
 npm install
 npm run build
 ```
+
